@@ -6,9 +6,7 @@ To get started log into the updated machine and run the following command to cre
 
 ``` # rpm -qa | sort > installed_packages.txt ```
  
-After you have your package list made, upload the file as well as  the 
-###### upgrade.sh
-script to the server you wish to install the packages on, then navigate to the directory you placed the script run the below command on the server you wish to upgrade to give the script the right permissions.
+After you have your package list made, upload the upgrade.sh script to the server you wish to install the packages on, then navigate to the directory you placed the script run the below command on the server you wish to upgrade to give the script the right permissions.
 
 ``` sudo chmod 750 upgrade.sh ```
 
