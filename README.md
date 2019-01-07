@@ -1,5 +1,5 @@
 # Server-copy-
-Copy the YUM repositories  from one red hat server to another. 
+Copy the packages from one server to another. 
 ## Getting Started 
 This script will take the Yum history captured from one server and run it off of another. THis is useful for cloning and updating multiple servers. 
 
