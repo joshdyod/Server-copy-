@@ -2,6 +2,7 @@
 Copy the YUM repositories  from one red hat server to another. 
 ## Getting Started 
 This script will take the Yum history captured from one server and run it off of another. THis is useful for cloning and updating multiple servers. 
+
 To get started log into the updated machine and run the following command to create a list of all the pacheges installed.
 
 ``` # rpm -qa | sort > installed_packages.txt ```
