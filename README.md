@@ -13,7 +13,7 @@ After you have your package list made, upload the upgrade.sh script to the serve
 
 After you have given the script the proper permissions run the following command on the server you wish to upgrade to start the process! Please note this will take some time. 
 
-``` upgrade.sh ```
+``` ./upgrade.sh ```
 
 
  
