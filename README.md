@@ -1,7 +1,7 @@
 # Server-copy-
 Copy the packages from one server to another. 
 ## Getting Started 
-This script will take the Yum history captured from one server and run it off of another. THis is useful for cloning and updating multiple servers. 
+This script will take the Yum history captured from one server and run it off of another. This is useful for cloning and updating multiple servers. 
 
 To get started log into the updated machine and run the following command to create a list of all the pacheges installed.
 
